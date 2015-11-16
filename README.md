@@ -1,2 +1,3 @@
-# VPN_Providers
-IP address lists of some VPN providers
+Disclaimer
+Use at your own risk.
+I make no claim of accuracy of the ipaddress lists.

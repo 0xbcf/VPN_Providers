@@ -1,3 +1,5 @@
-Disclaimer
-Use at your own risk.
-I make no claim of accuracy of the ipaddress lists.
+# VPN ipaddress generator
+### Usage
+* python generate.py [lists/textfile.txt]
+### Requirements
+* Python
